@@ -1146,7 +1146,6 @@ vendor/lib64/libsec_vaultkeeper_serverHal.so
 vendor/lib64/vendor.samsung.security.vaultkeeper_server@1.0.so
 
 # Sensors
-vendor/bin/factory.ssc
 vendor/bin/sensors.qti
 vendor/bin/sscrpcd
 vendor/etc/sensors/config/default_sensors.json
@@ -1260,7 +1259,6 @@ vendor/etc/init/android.hardware.usb@1.1-service.wahoo.rc
 # Wifi
 vendor/bin/hw/macloader
 vendor/bin/cnss-daemon
-vendor/firmware/wlanmdsp.mbn
 vendor/firmware/wlan/qca_cld/bdwlan.bin
 vendor/firmware/wlan/qca_cld/grippower.info
 vendor/firmware/wlan/qca_cld/regdb.bin
