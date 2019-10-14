@@ -182,3 +182,5 @@
 /vendor/lib/modules(/.*)?      u:object_r:vendor_file:s0
 /vendor/lib64(/.*)?            u:object_r:same_process_hal_file:s0
 /vendor/usr/keylayout(/.*)?    u:object_r:keylayout_file:s0
+
+/mnt/vendor/persist/sensors/registry/registry(/.*)?     --  u:object_r:sensors_persist_file:s0
